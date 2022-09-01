@@ -1,1 +1,1 @@
-first delete
+School.mgc
