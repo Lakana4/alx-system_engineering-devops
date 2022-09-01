@@ -1,1 +1,2 @@
-copy HTML files
+file:schools
+filetype:schools
