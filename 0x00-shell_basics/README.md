@@ -1,1 +1,1 @@
-School.mgc
+Let us move
