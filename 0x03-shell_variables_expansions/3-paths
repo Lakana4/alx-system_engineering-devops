@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $PSTH | try -s : n | wc -l
